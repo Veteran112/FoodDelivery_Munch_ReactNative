@@ -1,0 +1,59 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-linkmunch-staging-14726-authRole",
+      "UnauthRoleArn": "arn:aws:iam::406963847248:role/amplify-linkmunch-staging-14726-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::406963847248:role/amplify-linkmunch-staging-14726-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-linkmunch-staging-14726-deployment",
+      "UnauthRoleName": "amplify-linkmunch-staging-14726-unauthRole",
+      "StackName": "amplify-linkmunch-staging-14726",
+      "StackId": "arn:aws:cloudformation:us-west-2:406963847248:stack/amplify-linkmunch-staging-14726/c5870cf0-743e-11ed-ac05-06dca994d669",
+      "AmplifyAppId": "d1gn1gh2y6ukh4"
+    },
+    "categories": {
+      "auth": {
+        "LinkMunch": {}
+      }
+    }
+  },
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-linkmunch-dev-225030-authRole",
+      "UnauthRoleArn": "arn:aws:iam::406963847248:role/amplify-linkmunch-dev-225030-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::406963847248:role/amplify-linkmunch-dev-225030-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-linkmunch-dev-225030-deployment",
+      "UnauthRoleName": "amplify-linkmunch-dev-225030-unauthRole",
+      "StackName": "amplify-linkmunch-dev-225030",
+      "StackId": "arn:aws:cloudformation:us-west-2:406963847248:stack/amplify-linkmunch-dev-225030/fa891680-744f-11ed-91b9-02b16f88274b",
+      "AmplifyAppId": "d1gn1gh2y6ukh4"
+    },
+    "categories": {
+      "auth": {
+        "LinkMunch": {}
+      }
+    }
+  },
+  "prod": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-linkmunch-prod-184604-authRole",
+      "UnauthRoleArn": "arn:aws:iam::406963847248:role/amplify-linkmunch-prod-184604-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::406963847248:role/amplify-linkmunch-prod-184604-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-linkmunch-prod-184604-deployment",
+      "UnauthRoleName": "amplify-linkmunch-prod-184604-unauthRole",
+      "StackName": "amplify-linkmunch-prod-184604",
+      "StackId": "arn:aws:cloudformation:us-west-2:406963847248:stack/amplify-linkmunch-prod-184604/d2986300-bae6-11ed-89d3-0a3404b1cae5",
+      "AmplifyAppId": "d1gn1gh2y6ukh4"
+    },
+    "categories": {
+      "auth": {
+        "LinkMunch": {}
+      },
+      "function": {
+        "linkmunch08ba7504": {}
+      }
+    }
+  }
+}

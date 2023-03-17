@@ -1,0 +1,15 @@
+{
+  "prod": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-linkmunchmerchant-prod-122245-authRole",
+      "UnauthRoleArn": "arn:aws:iam::406963847248:role/amplify-linkmunchmerchant-prod-122245-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::406963847248:role/amplify-linkmunchmerchant-prod-122245-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-linkmunchmerchant-prod-122245-deployment",
+      "UnauthRoleName": "amplify-linkmunchmerchant-prod-122245-unauthRole",
+      "StackName": "amplify-linkmunchmerchant-prod-122245",
+      "StackId": "arn:aws:cloudformation:us-west-2:406963847248:stack/amplify-linkmunchmerchant-prod-122245/5c3d9f60-bb7a-11ed-ab00-0abadda20251",
+      "AmplifyAppId": "d1au7xx5jt9kfr"
+    }
+  }
+}
